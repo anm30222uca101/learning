@@ -22,7 +22,7 @@ class ifelse2 {
 
         } else {
             
-            System.out.println("Grade D");
+            System.out.println("Grade C");
 
         }
 
